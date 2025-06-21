@@ -62,7 +62,7 @@ const produtos = [
   {
     nome: "Abacaxi",
     precoPorQuilo: 4.90,
-    imagem: "imagens/Abacaxi.jpeg"
+    imagem: "./imagens/Abacaxi.jpeg"
   },
   {
     nome: "Beterraba",
