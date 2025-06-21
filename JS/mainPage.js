@@ -2,62 +2,62 @@ const produtos = [
   {
     nome: "Maçã",
     precoPorQuilo: 6.50,
-    imagem: "../imagens/Maça.jpg"
+    imagem: "./imagens/Maça.jpg"
   },
   {
     nome: "Banana",
     precoPorQuilo: 4.20,
-    imagem: "../imagens/BANANA.jpg"
+    imagem: "./imagens/BANANA.jpg"
   },
   {
     nome: "Laranja",
     precoPorQuilo: 3.80,
-    imagem: "../imagens/Laranja.jpg"
+    imagem: "./imagens/Laranja.jpg"
   },
   {
     nome: "Tomate",
     precoPorQuilo: 5.30,
-    imagem: "../imagens/Tomate.webp"
+    imagem: "./imagens/Tomate.webp"
   },
   {
     nome: "Cenoura",
     precoPorQuilo: 3.90,
-    imagem: "../imagens/Cenoura.jpg"
+    imagem: "./imagens/Cenoura.jpg"
   },
   {
     nome: "Batata",
     precoPorQuilo: 2.60,
-    imagem: "../imagens/Batata.jpg"
+    imagem: "./imagens/Batata.jpg"
   },
   {
     nome: "Alface",
     precoPorQuilo: 2.80,
-    imagem: "../imagens/Alface.jpg"
+    imagem: "./imagens/Alface.jpg"
   },
   {
     nome: "Cebola",
     precoPorQuilo: 3.20,
-    imagem: "../imagens/Cebola.jpg"
+    imagem: "./imagens/Cebola.jpg"
   },
   {
     nome: "Pimentão Verde",
     precoPorQuilo: 6.00,
-    imagem: "../imagens/Pimentão-verde.jpg"
+    imagem: "./imagens/Pimentão-verde.jpg"
   },
   {
     nome: "Uva",
     precoPorQuilo: 9.80,
-    imagem: "../imagens/Uva.jpg"
+    imagem: "./imagens/Uva.jpg"
   },
   {
     nome: "Morango",
     precoPorQuilo: 12.00,
-    imagem: "../imagens/Morango.jpg"
+    imagem: "./imagens/Morango.jpg"
   },
   {
     nome: "Melancia",
     precoPorQuilo: 2.90,
-    imagem: "../imagens/Melancia.jpg"
+    imagem: "./imagens/Melancia.jpg"
   },
   {
     nome: "Abacaxi",
@@ -67,12 +67,12 @@ const produtos = [
   {
     nome: "Beterraba",
     precoPorQuilo: 3.70,
-    imagem: "../imagens/Beterraba.jpg"
+    imagem: "./imagens/Beterraba.jpg"
   },
   {
     nome: "Couve",
     precoPorQuilo: 2.50,
-    imagem: "../imagens/Couve.jpg"
+    imagem: "./imagens/Couve.jpg"
   }
 ];
 
@@ -80,27 +80,27 @@ const produtosNovos = [
   {
     nome: "Manga",
     precoPorQuilo: 5.70,
-    imagem: "../imagens/Manga.png"
+    imagem: "./imagens/Manga.png"
   },
   {
     nome: "Chuchu",
     precoPorQuilo: 2.90,
-    imagem: "../imagens/Chuchu.webp"
+    imagem: "./imagens/Chuchu.webp"
   },
   {
     nome: "Rúcula",
     precoPorQuilo: 3.40,
-    imagem: "../imagens/Rúcula.jpg"
+    imagem: "./imagens/Rúcula.jpg"
   },
   {
     nome: "Maracujá",
     precoPorQuilo: 6.80,
-    imagem: "../imagens/Maracuja.webp"
+    imagem: "./imagens/Maracuja.webp"
   },
   {
     nome: "Repolho",
     precoPorQuilo: 3.10,
-    imagem: "../imagens/Repolho.jpeg"
+    imagem: "./imagens/Repolho.jpeg"
   }
 ];
 
